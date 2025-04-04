@@ -22,7 +22,7 @@ Ce projet est une implémentation du célèbre jeu du Pendu développé en C#. L
 
 - Interface utilisateur intuitive avec navigation entre pages
 - Récupération de mots aléatoires à partir d'une liste
-- Système de vies (10 tentatives maximum)
+- Système de vies (3 tentatives maximum)
 - Visualisation graphique du pendu qui évolue avec les erreurs
 - Affichage des lettres incorrectes déjà essayées
 - de victoire et de défaite ????
